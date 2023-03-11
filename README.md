@@ -8,6 +8,8 @@ link pendaftaran: https://brainmatics.com/1-hour-online-training-3-mitos-penyeba
 Narasumber: Wahyu Utomo	
 Dosen Pengampu: Rolly Maulana Awangga
 
+![image](https://user-images.githubusercontent.com/11188109/224460136-99f9a8d7-2c6e-4812-aebc-4fa4547561e3.png)
+
 ## Zoom
 
 ![image](https://user-images.githubusercontent.com/11188109/224460034-9bb19ca2-ccf8-4552-b34e-c3453b580ef0.png)
