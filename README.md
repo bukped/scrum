@@ -43,7 +43,7 @@ https://us06web.zoom.us/j/89306414820?pwd=bTJCcktQWHZmckFDVnYwRERpd0VpUT09/
   * Skrinsut Hasil Pre Test(10)
   * Skrinsut hasil post test(10)
   * Sertifikat pelatihan(10)
-  * Skrinsutan(gambar atau link video) Pertanyaan via chat atau video(10)
+  * Skrinsutan(gambar atau link video) Pertanyaan sendiri (bukang org lain yang nanya) via chat atau video(10)
   * Skrinsutan presensi kehadiran(10)
   * URL link youtube Penjelasan teori dan praktik tentang studi kasus / kendala / kesalahan / penerapan / ketidak tahuan / kegagalan tentang SCRUM (setiap mahasiswa harus berbeda kasus) di channel bukupedia (10)
   * Sertifikat SFPC dari : https://certiprof.com/pages/scrum-foundation-certificate-free (30)
