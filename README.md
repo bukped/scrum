@@ -1,5 +1,7 @@
 # scrum
 
+![image](https://user-images.githubusercontent.com/11188109/224460054-cc492dd2-5d70-44de-b453-548532a57adb.png)
+
 Sabtu, 11 Maret 2023	
 1 Hour Online Training: 3 Mitos Penyebab Kegagalan Penerapan Scrum - Brainmatics	
 link pendaftaran: https://brainmatics.com/1-hour-online-training-3-mitos-penyebab-kegagalan-penerapan-scrum/	
@@ -7,6 +9,9 @@ Narasumber: Wahyu Utomo
 Dosen Pengampu: Rolly Maulana Awangga
 
 ## Zoom
+
+![image](https://user-images.githubusercontent.com/11188109/224460034-9bb19ca2-ccf8-4552-b34e-c3453b580ef0.png)
+
 Bersama email berikut kami kirimkan Konfirmasi Pelaksanaan 1 Hour Online Training: 3 Mitos Penyebab Kegagalan Penerapan Scrum. Sebagai konfirmasi pelaksanaan training yang akan diselenggarakan online via aplikasi Zoom pada:
 Hari/Tanggal         : Sabtu/11 Maret 2023
 Pukul               : 09.00 WIB - Selesai
