@@ -38,4 +38,4 @@ https://us06web.zoom.us/j/89306414820?pwd=bTJCcktQWHZmckFDVnYwRERpd0VpUT09/
   * Sertifikat pelatihan(20)
   * Skrinsutan(gambar atau link video) Pertanyaan via chat atau video(20)
   * Skrinsutan presensi kehadiran(10)
-  * Penjelasan teori dan praktik tentang studi kasus / kendala / kesalahan / penerapan / ketidak tahuan / kegagalan tentang SCRUM (setiap mahasiswa harus berbeda kasus)(20)
+  * URL link youtube Penjelasan teori dan praktik tentang studi kasus / kendala / kesalahan / penerapan / ketidak tahuan / kegagalan tentang SCRUM (setiap mahasiswa harus berbeda kasus) di channel bukupedia (20)
